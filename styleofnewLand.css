@@ -1,7 +1,54 @@
-
-
 body{
-    background-image: url(b8OFpFlsy84.jpg);
-    background-position: auto;
-    background-size: 1500px 700px;
+    background-color: whitesmoke;
+    margin:0,
+    
+    
 }
+
+
+header{
+    background-color: black;
+    color:white;
+    height: 50px;
+    border-bottom: blue;
+    padding: 0,;
+    margin: 0,;
+}
+
+header > .myinput{
+    width: -20px;
+    padding-top: -10px;
+
+
+
+}
+
+
+
+
+img{
+    height: 50px;
+}
+
+.panel{
+    display: inline-block;
+    width: 250px;
+    height: 200vh;
+    background-color: rgb(163, 161, 161);
+}
+
+.feed {
+    display: inline-block;
+    width: 650px;
+    height: 200vh;
+    background-color: lightgrey;
+}
+
+
+
+.rens{
+        display: inline-block;
+        width: 425px;
+        height: 200vh;
+        background-color: lightgrey;
+    }
